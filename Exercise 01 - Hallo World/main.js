@@ -1,1 +1,2 @@
-console.log("Hallo World");
+"use strict";
+console.log("Hallo World, I am Zubair Ahmed");
