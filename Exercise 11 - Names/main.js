@@ -8,6 +8,12 @@ let names = [
     "Muhammad Rizwan",
     "Azam Khan",
 ];
+// Printing each Person name
+console.log(names[0]);
+console.log(names[1]);
+console.log(names[2]);
+console.log(names[3]);
+console.log(names[4]);
 // LOOP = Printing each Person name
 for (let i = 0; i < names.length; i++) {
     console.log("Loop:", names[i]);
