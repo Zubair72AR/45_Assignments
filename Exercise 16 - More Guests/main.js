@@ -7,7 +7,7 @@ let guestList3 = [
     "Ikram Jan",
     "Nadeem Bhai",
 ];
-// Announcing that i found a bigger table
+// Announcing that I found a bigger table
 console.log("Hurry! we have found a bigger table");
 // UNSHIFT - Adding new Guest to the beginning of Array
 guestList3.unshift("Imran Khan");
