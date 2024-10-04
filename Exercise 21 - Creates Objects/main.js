@@ -1,3 +1,10 @@
 "use strict";
-// Assignment - 07
-// 
+// Assignment - 21
+// They think of something you could store in a TypeScript Object
+let myObj = {
+    institute: "GIAIC",
+    totalStudents: 50000,
+    isAICourse: true,
+};
+// Write a program that creates Objects containing these items
+console.log(myObj);
