@@ -1,1 +1,3 @@
-console.log("Hallo World, I am Zubair Ahmed");
+console.log(
+  `Hallo World, I have Installed "Node.js", "TypeScript" and "VS Code" on my PC`
+);

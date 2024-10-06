@@ -1,7 +1,7 @@
 // Assignment - 35
 
 // Array of Animals
-let myAnimals = ["Cat", "Dog", "Parrot"];
+let myAnimals: string[] = ["Cat", "Dog", "Parrot"];
 
 // Printing the names of the pets
 for (let animal of myAnimals) {

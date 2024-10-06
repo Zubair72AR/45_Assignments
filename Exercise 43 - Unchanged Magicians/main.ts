@@ -9,7 +9,7 @@ function make_great02(magicians: string[]) {
 }
 
 // Create an array of magician's names
-let magician_name03 = ["Ayan", "Zohaib", "Babar", "Naseem"];
+let magician_name03: string[] = ["Ayan", "Zohaib", "Babar", "Naseem"];
 
 // Creating Copy of an array
 let copy_magician_name = magician_name03.slice();

@@ -6,7 +6,7 @@ function show_magicians(nameOfMagicians: string[]) {
 }
 
 // Create an array of magician's names
-let magician_name01 = ["Ayan", "Zohaib", "Babar", "Naseem"];
+let magician_name01: string[] = ["Ayan", "Zohaib", "Babar", "Naseem"];
 
 // Call the function with the array of magician's names
 show_magicians(magician_name01);

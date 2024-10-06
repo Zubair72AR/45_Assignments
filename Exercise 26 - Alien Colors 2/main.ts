@@ -1,7 +1,7 @@
 // Assignment - 26
 
 //Exercise 26 - Alien color 2
-let alien_color2 = "green";
+let alien_color2: string = "green";
 
 // Block-01 - Executing if condition
 if (alien_color2 === "green") {

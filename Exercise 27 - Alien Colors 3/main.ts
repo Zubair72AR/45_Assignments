@@ -1,7 +1,7 @@
 // Assignment - 27
 
 //Alien color 3
-let alien_color3 = "green";
+let alien_color3: string = "green";
 
 // for Green color if condition is true
 if (alien_color3 === "green") {
